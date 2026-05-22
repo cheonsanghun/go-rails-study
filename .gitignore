@@ -1,0 +1,14 @@
+# This file keeps generated dependencies, build output, and local env files out of git.
+
+node_modules/
+.next/
+dist/
+build/
+coverage/
+*.tsbuildinfo
+
+.env
+.env.local
+.env.*.local
+
+.DS_Store
